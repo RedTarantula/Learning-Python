@@ -1,3 +1,6 @@
+import os
+os.system('clear')
+
 # STRINGS
 s = "Yoinking \"poopy\" haha very fucking \n FUNNY"
 print(s);

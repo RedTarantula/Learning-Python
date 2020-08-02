@@ -1,3 +1,6 @@
+import os
+os.system('clear')
+
 # MATH
 i = 1
 f = 10.10

@@ -1,3 +1,6 @@
+import os
+os.system('clear')
+
 favorite_animals = {
 	"John":"Chicken",
 	"Joshua":"Dragon",

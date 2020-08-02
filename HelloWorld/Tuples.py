@@ -1,3 +1,6 @@
+import os
+os.system('clear')
+
 # TUPLES
 names = ("John", "Leo", "Bob")
 new_names = ("Matt",) # Must have a comma if it's one thing

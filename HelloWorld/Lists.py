@@ -1,3 +1,6 @@
+import os
+os.system('clear')
+
 # LISTS
 favorite_animal = "Chicken"
 birds = ["Turkey", "Duck", "Goose"]
